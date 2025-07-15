@@ -1,10 +1,11 @@
-# ☠️ Lucas Raí
+# 👋 Hello, world. I'm Lucas Raí
 
-**System Developer**
-**Full-Stack**
-**Beginner**
+**`System Developer`**
+**`Full-Stack`**
+**`Beginner`**
 
-<!-- descrição minha -->
+🎓 I study at **EEEP Amélia Figueiredo de Lavor**, where I'm taking a technical course in **Systems Development**. <br><br>
+🚀 In my free time, I enjoy exploring new technologies that help me become a **Full Stack Developer**.
 
 <p align="left">
     <!-- Profile views-->
@@ -23,12 +24,12 @@
 
 ---
 
-<h3 align="center">titulo</h3>
+<h3 align="center">Technologies I've explored</h3>
 
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,html,css,js,git,github" /> <br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,mysql" /> <br>
     <img src="https://skillicons.dev/icons?i=vscode,pwsh,bootstrap,figma,windows,discord" /><br>
 
 </div>
@@ -46,13 +47,12 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Lucas-Rai78&show_icons=true&theme=dark&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Lucas-Rai78&show_icons=true&theme=dark&include_all_commits=true&locale=en" 
   />
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Rai78&theme=dark&layout=compact" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Rai78&theme=aura_dark&layout=compact" 
   />
-
 </p>
