@@ -3,6 +3,7 @@
 **`System Developer`**
 **`Full-Stack`**
 **`Beginner`**
+**`Brazilian`**
 
 🎓 I study at **EEEP Amélia Figueiredo de Lavor**, where I'm taking a technical course in **Systems Development**. <br><br>
 🚀 In my free time, I enjoy exploring new technologies that help me become a **Full Stack Developer**.
