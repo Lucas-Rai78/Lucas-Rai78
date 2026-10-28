@@ -31,9 +31,11 @@
 
 <br/>
 
-<p align="center">
+<p>
   <img height="180" style="margin-left: 15px;" src="https://github-readme-stats.vercel.app/api?username=Lucas-Rai78&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <br/>
   <img height="180" style="margin-left: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Rai78&layout=compact&theme=dracula" />
+  <br/>
   <img height="180" style="margin-left: 15px;" src="https://github-readme-streak-stats.herokuapp.com?user=Lucas-Rai78&theme=dracula" />
 </p>
 
