@@ -1,5 +1,3 @@
-<br/>
-
 # 👋 Hello, I'm Lucas Raí
 **`Full-Stack Developer`**
 **`Brazilian`**
@@ -28,11 +26,9 @@
 </div>
 
 <br/>
-<br/>
 
 ---
 
-<br/>
 <br/>
 
 <p align="center">
