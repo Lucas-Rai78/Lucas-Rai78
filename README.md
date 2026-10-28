@@ -30,9 +30,9 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,mysql" /> <br>
-    <img src="https://skillicons.dev/icons?i=vscode,pwsh,bootstrap,figma,windows,discord" /><br>
-
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,ts,nodejs,fastapi" /> <br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vue,sqlite,postgres,mysql,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,docker,figma,windows,linux,git,github" /><br>
 </div>
 
 <br/>
