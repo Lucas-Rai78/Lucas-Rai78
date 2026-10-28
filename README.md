@@ -2,10 +2,10 @@
 **`Full-Stack Developer`**
 **`Brazilian`**
 <p>
-  <b>Desenvolvedor Full-Stack</b> | Focado em criar aplicações web modernas, eficientes e escaláveis.
+  Full-Stack Developer | Focused on building modern, efficient, and scalable web applications.
 </p>
 
-<p>
+<p align="center">
   <a href="mailto:seu-email@example.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
@@ -16,6 +16,8 @@
     <img src="https://img.shields.io/badge/Portfólio-454545?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
   </a>
 </p>
+
+<br/>
 
 <h3 align="center">🛠️ Technologies e Tools</h3>
 
@@ -31,12 +33,10 @@
 
 <br/>
 
-<p>
-  <img height="180" style="margin-left: 15px;" src="https://github-readme-stats.vercel.app/api?username=Lucas-Rai78&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <br/>
-  <img height="180" style="margin-left: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Rai78&layout=compact&theme=dracula" />
-  <br/>
-  <img height="180" style="margin-left: 15px;" src="https://github-readme-streak-stats.herokuapp.com?user=Lucas-Rai78&theme=dracula" />
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Lucas-Rai78&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Lucas-Rai78&theme=dracula" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Rai78&layout=compact&theme=dracula" />
 </p>
 
 <p>
